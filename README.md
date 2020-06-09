@@ -1,4 +1,33 @@
-# fibonacci
+# Shopper Challenge Fibonacci
+A partir de un numero entero regresa el número inmediato de la serie Fibonacci menor o igual.
+
+### Ejemplo 1
+**Entrada**
+```
+0
+```
+**Salida**
+```
+0
+```
+### Ejemplo 2
+**Entrada**
+```
+6
+```
+**Salida**
+```
+5
+```
+### Ejemplo 1
+**Entrada**
+```
+8
+```
+**Salida**
+```
+8
+```
 
 ## Project setup
 ```
@@ -15,10 +44,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
